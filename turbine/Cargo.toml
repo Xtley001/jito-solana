@@ -23,6 +23,8 @@ agave-votor = { workspace = true }
 agave-votor-messages = { workspace = true }
 agave-wake-channel = { workspace = true }
 agave-worker-pool = { workspace = true }
+agave-xdp = { workspace = true }
+arc-swap = { workspace = true }
 bytes = { workspace = true }
 crossbeam-channel = { workspace = true }
 itertools = { workspace = true }
@@ -33,6 +35,7 @@ rand = { workspace = true }
 rand_chacha = { workspace = true }
 rayon = { workspace = true }
 scopeguard = { workspace = true }
+smallvec = { workspace = true }
 solana-clock = { workspace = true }
 solana-cluster-type = { workspace = true }
 solana-cost-model = { workspace = true }
